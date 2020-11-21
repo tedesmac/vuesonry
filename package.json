@@ -1,0 +1,9 @@
+{
+  "name": "vuesonry",
+  "version": "0.0.1",
+  "description": "A dependency free implementation of masonry.js for Vue",
+  "main": "src/vuesonry.vue",
+  "repository": "git@github.com:tedesmac/vuesonry.git",
+  "author": "Cuauhtémoc Ledesma <cuauhtemoc@ledesma.co>",
+  "license": "MIT"
+}
